@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "794991718369",
+    "project_id": "parc-3a859",
+    "storage_bucket": "parc-3a859.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794991718369:android:12c2779ecd74c5e15a6ca0",
+        "android_client_info": {
+          "package_name": "com.example.prac"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx2Nth_4ya8bVoZj-MTPmFR--ta7v_Olk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
